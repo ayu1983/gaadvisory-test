@@ -14,3 +14,6 @@ GA Advisory用リポジトリで更新したよ！！
 テスト的にayu1983側で更新して、pull requestするよ。
 
 
+2024/1/2
+test
+
