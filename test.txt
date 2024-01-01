@@ -17,3 +17,7 @@ GA Advisory用リポジトリで更新したよ！！
 2024/1/2
 test
 
+2024/1/2
+branch work-2
+
+
